@@ -1,1 +1,1 @@
-The DPNI folder contains two subfolders, DPNI-A and DPNI-G. Each of them includes a file named `main_program.py`, which is the main executable code. The `utils.py` file defines the supporting functions. The `data` folder contains the main experimental samples used in the paper.**
+The DPNI folder contains two subfolders, DPNI-A and DPNI-G. Each of them includes a file named main_program.py, which is the main executable code. The utils.py file defines the supporting functions. The data folder contains the main experimental samples used in the paper.
