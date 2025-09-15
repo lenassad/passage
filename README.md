@@ -1,1 +1,2 @@
-The DPNI folder contains two subfolders, DPNI-A and DPNI-G. Each of them includes a file named main_program.py, which is the main executable code. The utils.py file defines the supporting functions. The data folder contains the main experimental samples used in the paper.
+
+DPNI is the main experimental part. In the documentation, `result` contains the experimental results, `data` contains the experimental data, and `main` is the primary program. `absorb` and `rl_train` correspond to the PPO components, while `DPNI-A` and `DPNI-P` are used for ablation study comparisons.
